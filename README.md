@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Rushil Patel! 👋
 
-<!--
-**rushilp7/rushilp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 About Me
+I'm a Computer Science major at the University of Pennsylvania with a deep passion for AI, data science and computational biology.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+**Neurodegenerative Disease Research**: At the Yuyan Cheng Lab, I'm optimizing single-nucleus RNA sequencing pipelines to identify marker genes for frontotemporal lobar degeneration (FTLD), aiming to improve early diagnosis methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Looking to Collaborate On
+- AI applications in healthcare and biotechnology
+- Open-source projects in computational biology
+- Data-driven solutions for health equity and accessibility
+
+## 📫 How to Reach Me
+- **LinkedIn**: https://www.linkedin.com/in/rushilpatel06/
+- **GitHub**: Feel free to open an issue or connect!
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+Before diving into computational biology, I worked on an engineering project in high school where I designed a **self-stabilizing spoon** (https://www.thingiverse.com/thing:6594702) to help a student with mobility issues eat independently! 
