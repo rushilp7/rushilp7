@@ -19,4 +19,4 @@ I'm a Computer Science major at the University of Pennsylvania with a deep passi
 He/Him
 
 ## ⚡ Fun Fact
-Before diving into computational biology, I worked on an engineering project in high school where I designed a **self-stabilizing spoon** (https://www.thingiverse.com/thing:6594702) to help a student with mobility issues eat independently! 
+Before diving into computational biology, I worked on an engineering project in high school where I designed a [**self-stabilizing spoon**](https://www.thingiverse.com/thing:6594702) to help a student with mobility issues eat independently! 
