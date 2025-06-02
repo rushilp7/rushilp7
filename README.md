@@ -4,7 +4,7 @@
 I'm a Computer Science major at the University of Pennsylvania with a deep passion for AI, data science and computational biology.
 
 ## 🔭 Currently Working On
-**Neurodegenerative Disease Research**: At the Yuyan Cheng Lab, I'm optimizing single-nucleus RNA sequencing pipelines to identify marker genes for frontotemporal lobar degeneration (FTLD), aiming to improve early diagnosis methods.
+**Neurodegenerative Disease Research**: At the Yuyan Cheng Lab, I'm optimizing single-nucleus RNA sequencing pipelines to identify marker genes for frontotemporal lobar degeneration (FTLD), Alzheimer's Disease (AD) and Progressive Supranuclear Palsy (PSP), aiming to improve early diagnosis and treatment methods. Unforuntately, due to HIPAA protections, my code and work on this is private.
 
 ## 👯 Looking to Collaborate On
 - AI applications in healthcare and biotechnology
