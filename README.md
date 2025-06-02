@@ -10,6 +10,7 @@ I'm a Computer Science major at the University of Pennsylvania with a deep passi
 - AI applications in healthcare and biotechnology
 - Open-source projects in computational biology
 - Data-driven solutions for health equity and accessibility
+- Literally any sort of data analysis!
 
 ## 📫 How to Reach Me
 - **LinkedIn**: https://www.linkedin.com/in/rushilpatel06/
